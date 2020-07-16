@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DistanceMap</string>
+
+    <string name="longitudeA">Longitude A:</string>
+    <string name="latitudeA">Latitude A:</string>
+    <string name="latitudeB">Latitude B:</string>
+    <string name="longitudeB">Longitude B:</string>
+
+</resources>
